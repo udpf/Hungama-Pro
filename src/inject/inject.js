@@ -50,8 +50,8 @@ var createDownloadQuality = function () {
 	dropDown.append(dropDownList);
 	menuItem.append(dropDown);
 	 
-	$('.artist-social-box').first().prepend(menuItem);    // in song and album page
-	 
+	$('.artist-social-box').prepend(menuItem);    // in song and album page 
+	 //$('.songInfoMobile').append(menuItem);
 };
 
 // quality setting  
@@ -114,7 +114,7 @@ $(document).ready(function(){
 		   song.lyrist=arry[0]['lyricist'];
 		   song.lyrics=arry[0]['lyrics'];
 		   song.lable="";
-		   song.composer=$(".songMusicDirector").find("a").text()
+		   song.md=$(".songMusicDirector").find("a").text()
 		   song.audio_quality=localStorage.hcom_audio_qty;
 		   song.wp=location.href;
 		   return song;
@@ -141,7 +141,7 @@ $(document).ready(function(){
 		 song.md=$(".artist-details").find("a").first().attr("title");  // music directer
 		 */
 		  
-            //alert(json_encode(song)); 
+            alert(json_encode(song)); 
 	  	    $(".udpf_mp3_st").text('loading..');
 			downloadWithData(song, song.url, function () {
 			$(".udpf_mp3_st").text('done');
