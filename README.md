@@ -3,7 +3,9 @@
 ![Picture](https://raw.githubusercontent.com/udpf/Hungama-Pro/master/img/p4.png)
 ![Picture](https://raw.githubusercontent.com/udpf/Hungama-Pro/master/img/p5.png)
 ![Picture](https://raw.githubusercontent.com/udpf/Hungama-Pro/master/img/p6.png)
-
+![Picture](https://raw.githubusercontent.com/udpf/Hungama-Pro/master/img/p7.png)
+![Picture](https://raw.githubusercontent.com/udpf/Hungama-Pro/master/img/p8.png)
+![Picture](https://raw.githubusercontent.com/udpf/Hungama-Pro/master/img/p9.png)
 This Extension will allow you to listen or download songs in any quality including HD from https://www.hungama.com. 
 
 ## Features
