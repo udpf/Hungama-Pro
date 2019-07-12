@@ -12,8 +12,8 @@ This Extension will allow you to listen or download songs in any quality includi
 - ADS free for Destop and mobile.
 - Song download unlocked.
 - Download songs in HD qualities.
-- Download all album song not leaving page
--Download all Playlist song not leaving page
+- Download all album song not leaving page.
+- Download all Playlist song not leaving page.
 - More ease than previous to download song.
 -ID3  complite tags.
 
